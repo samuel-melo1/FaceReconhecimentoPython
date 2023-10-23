@@ -4,7 +4,7 @@ import os
 import imutils
 
 # Pasta onde as imagens de treinamento estão localizadas (rostosPython)
-pasta_treinamento = "C:\\Users\\Samuel\\Documents\\rostosPython"
+pasta_treinamento = "C:\\Users\\Samuel\\Desktop\\FaceReconhecimento\\FotosRecognition"
 
 # Carregue as imagens de treinamento e seus rótulos
 imagens_treinamento = []
